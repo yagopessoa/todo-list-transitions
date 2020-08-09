@@ -1,13 +1,13 @@
 # ToDo List Transitions
 
-![Time Register](https://img.shields.io/badge/Yago%20Pessoa-Time--Register-%236633cc)
+![todo-list-transitions](https://img.shields.io/badge/Yago%20Pessoa-ToDo--List--Transitions-%236633cc)
 [![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://choosealicense.com/licenses/mit/)
 
 > Simple ToDo list app created for testing transitions with React.
 >
 > Created using [react-transition-group](http://reactcommunity.org/react-transition-group).
 >
-> Wanna try it out? See the [**demo here**](https://drive.google.com/file/d/1NwUdyUQqa6ZfNyP7YMHbB6vMQ-2ibQlf/view?usp=sharing).
+> Wanna try it out? See the [**demo here**](https://todo-list-transitions.netlify.app/).
 
 ## Technologies
 
